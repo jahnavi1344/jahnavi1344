@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jahnavi1344
+- 👋 Hi, I’m @jahnavi
 - 👀 I’m interested in ... in coding 
-- 🌱 I’m currently learning ... java abd web development
+- 🌱 I’m currently learning ... java and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jahnaviuc1344@gmail.com
 - 😄 Pronouns: ...she/her
